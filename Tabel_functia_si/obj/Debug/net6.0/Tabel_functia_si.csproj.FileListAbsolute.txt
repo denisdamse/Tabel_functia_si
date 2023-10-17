@@ -1,0 +1,15 @@
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/Tabel_functia_si.csproj.AssemblyReference.cache
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/Tabel_functia_si.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/Tabel_functia_si.AssemblyInfoInputs.cache
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/Tabel_functia_si.AssemblyInfo.cs
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/Tabel_functia_si.csproj.CoreCompileInputs.cache
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/bin/Debug/net6.0/Tabel_functia_si
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/bin/Debug/net6.0/Tabel_functia_si.deps.json
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/bin/Debug/net6.0/Tabel_functia_si.runtimeconfig.json
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/bin/Debug/net6.0/Tabel_functia_si.dll
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/bin/Debug/net6.0/Tabel_functia_si.pdb
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/Tabel_functia_si.dll
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/refint/Tabel_functia_si.dll
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/Tabel_functia_si.pdb
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/Tabel_functia_si.genruntimeconfig.cache
+/Users/denisdamse/Documents/Scoala/GitHub/Tabel_functia_si/obj/Debug/net6.0/ref/Tabel_functia_si.dll
